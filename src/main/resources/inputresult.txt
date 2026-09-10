@@ -1,3 +1,3 @@
 # Students: Enter your secret seed and predicted 16th dice roll value below:
-Seed: 1234567
-16th Value: 1
+Seed: 37480
+16th Value: 2
